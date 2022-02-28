@@ -1,0 +1,42 @@
+@import '../../global.scss';
+
+footer{
+    background-color: $secondMainColor;
+
+    
+        img{
+            width: 90px;
+            background-color: white;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+
+        .columnLink{
+            margin-top: 20px;
+        }
+
+        h5{
+            color: white;
+            font-weight: 300;
+            letter-spacing: 1px;
+
+        }
+    
+
+    p{
+        color: white;
+        font-weight: 200;
+        letter-spacing: 1px;
+    }
+
+    a{
+        color: white;
+        font-weight: 200;
+        letter-spacing: 1px;
+        cursor: pointer;
+        &:hover{
+            font-weight: 300;
+            color: white;
+        }
+    }
+}

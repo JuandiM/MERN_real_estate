@@ -1,0 +1,28 @@
+$mainColor: rgb(0, 153, 255);
+$secondMainColor: rgb(24, 47, 150);
+$textColor: rgb(78, 78, 78);
+$backGroundColor: rgb(247,245,245);
+%btn{
+        color: $mainColor;
+        border: 2px solid $mainColor;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-weight: 600;
+        width: 150px;
+        cursor: pointer;
+
+        &:hover{
+            
+            color: white;
+            background-color: $mainColor;
+        }
+    }
+
+
+$width: 768px;
+
+@mixin mobile {
+    @media (max-width: #{$width}){
+        @content
+    }
+}

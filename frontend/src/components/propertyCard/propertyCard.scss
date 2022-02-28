@@ -1,0 +1,68 @@
+@import '../../global.scss';
+
+.property{
+    width: 380px;
+    margin: 0px 25px 40px 25px;
+    border-radius: 5px;
+    border: 0.5px solid lightgrey;
+    display: flex;
+    flex-direction: column;
+
+    .propImage{
+        width: 100%;
+        height: 280px;
+        object-fit: cover;
+        border-radius: 2px;
+        overflow: hidden;
+        cursor: pointer;
+    }
+
+        .propInfo{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 5px 5px;
+            cursor: pointer;
+            
+            .propTitle{
+                color: $secondMainColor;
+                margin-top: 5px;
+            }
+
+            .propFeat{
+                margin-bottom: 5px;
+                span{
+                    margin-right: 5px;
+                    color: darkgrey;
+                }
+            }
+
+            .propPrice{
+                font-weight: bold;
+                p{
+                    color: $mainColor;
+                }
+                span{
+                    color: black;
+                }
+            }
+
+            .propDesc{
+                p{
+                    font-size: 13px;
+                    color: #444;
+                    line-height: 18px;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    display: -webkit-box;
+                    -webkit-line-clamp: 4;
+                    -webkit-box-orient: vertical;
+                }
+
+            }
+
+            .btn{
+                @extend %btn;
+            }
+        }
+}

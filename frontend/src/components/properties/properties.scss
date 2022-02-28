@@ -1,0 +1,35 @@
+@import '../../global.scss';
+
+.intro{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 15px;
+
+    .introTitle{
+        color: $secondMainColor;
+
+    }
+        .introDesc{
+            width: 75%;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            line-height: 20px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+}
+
+.properties{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+
+

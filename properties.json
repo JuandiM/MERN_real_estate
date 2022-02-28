@@ -1,0 +1,326 @@
+[
+    {
+        "ref": "1D-001",
+        "type": "villa",
+       "title": "Luxury Villa in Marbella",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": [
+          {"img1": "/assets/carousel/luxuryvilla1.jpg"},
+          {"img2": "/assets/carousel/modern-villa.jpg"},
+          {"img3": "/assets/carousel/luxuryvilla-pool.jpg"}
+        ],
+        "features": [
+          {"bedrooms": "2 bed"},
+          {"bath": "2 bath"},
+          {"built": "200m2"},
+          {"terrace": "120m2"},
+          {"plot": "1200m2"}
+        ],
+        "gallery": [
+          {"img1": "/assets/carousel/luxuryvilla1.jpg"},
+          {"img2": "/assets/carousel/luxuryvilla1.jpg"},
+          {"img3": "/assets/carousel/luxuryvilla1.jpg"},
+          {"img4": "/assets/carousel/luxuryvilla1.jpg"},
+          {"img5": "/assets/carousel/luxuryvilla1.jpg"},
+          {"img6": "/assets/carousel/luxuryvilla1.jpg"}
+        ],
+        "price": "€2,150,000"
+      },
+    {
+        "ref": "1D-002",
+        "type": "villa",
+        "title": "Modern Villa in Marbella",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "4 bed",
+          "bath": "4 bath",
+          "built": "300m2",
+          "terrace": "140m2",
+          "plot": "1800m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€3,550,000"
+      },
+    {
+        "ref": "1D-003",
+        "type": "villa",
+        "title": "4-bed Avant-grade Villa in Marbella",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "6 bed",
+          "bath": "4 bath",
+          "built": "400m2",
+          "terrace": "120m2",
+          "plot": "2200m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€7,150,000"
+      },
+    {
+        "ref": "1D-004",
+        "type": "villa",
+        "title": "Contemporary style Villa in Marbella",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "3 bed",
+          "bath": "2 bath",
+          "built": "220m2",
+          "terrace": "100m2",
+          "plot": "1400m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€1,550,000"
+      },
+    {
+        "ref": "1D-005",
+        "type": "villa",
+        "title": "6bed luxurious villa with sea views",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "6 bed",
+          "bath": "5 bath",
+          "built": "400m2",
+          "terrace": "220m2",
+          "plot": "2400m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€5,550,000"
+      },
+    {
+        "ref": "1D-006",
+        "type": "villa",
+        "title": "3bed luxurious villa with sea views",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "3 bed",
+          "bath": "2 bath",
+          "built": "180m2",
+          "terrace": "90m2",
+          "plot": "1000m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€750,000"
+      },
+    {
+        "ref": "1D-007",
+        "type": "apartment",
+        "title": "Modern 3bed apartment with sea views",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "3 bed",
+          "bath": "2 bath",
+          "built": "180m2",
+          "terrace": "90m2",
+          "plot": "800m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€550,000"
+      },
+    {
+        "ref": "1D-008",
+        "type": "apartment",
+        "title": "Comtemporary 3bed 1st floor luxurious apartment",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "3 bed",
+          "bath": "2 bath",
+          "built": "210m2",
+          "terrace": "100m2",
+          "plot": "1000m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€1.750,000"
+      },
+    {
+        "ref": "1D-009",
+        "type": "apartment",
+        "title": "3bed penthouse apartment in the beachside",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "3 bed",
+          "bath": "2 bath",
+          "built": "180m2",
+          "terrace": "90m2",
+          "plot": "1000m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€2,250,000"
+      },
+    {
+        "ref": "1D-010",
+        "type": "apartment",
+        "title": "4bed apartment with sea views",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "4 bed",
+          "bath": "3 bath",
+          "built": "280m2",
+          "terrace": "150m2",
+          "plot": "1000m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€3,550,000"
+      },
+    {
+        "ref": "1D-011",
+        "type": "apartment",
+        "title": "2bed 2n floor luxurious apartment",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "2 bed",
+          "bath": "2 bath",
+          "built": "150m2",
+          "terrace": "60m2",
+          "plot": "1000m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€550,000"
+      },
+    {
+        "ref": "1D-012",
+        "type": "apartment",
+        "title": "4bed modern penthouse apartment with sea views",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+        "carouselImg": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/modern-villa.jpg",
+          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
+        },
+        "features": {
+          "bedrooms": "4 bed",
+          "bath": "3 bath",
+          "built": "220m2",
+          "terrace": "110m2",
+          "plot": "1000m2"
+        },
+        "gallery": {
+          "img1": "/assets/carousel/luxuryvilla1.jpg",
+          "img2": "/assets/carousel/luxuryvilla1.jpg",
+          "img3": "/assets/carousel/luxuryvilla1.jpg",
+          "img4": "/assets/carousel/luxuryvilla1.jpg",
+          "img5": "/assets/carousel/luxuryvilla1.jpg",
+          "img6": "/assets/carousel/luxuryvilla1.jpg"
+        },
+        "price": "€1,750,000"
+      }
+]

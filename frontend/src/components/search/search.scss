@@ -1,0 +1,100 @@
+@import '../../global.scss';
+
+.search{
+    background-color: $backGroundColor;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+
+    .top{
+        flex: 0.5;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+            
+            .textContainer{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+                width: 80%;
+                margin-top: 20px;
+                
+                h1{
+                    font-size: 50px;
+                    font-weight: 300;
+                    //margin-top: 20px;
+                    display: flex;
+                    align-self: center;
+                    justify-content: center;
+                    color: $mainColor;
+                    padding-bottom: 10px;
+                    text-align: center;
+
+                    @include mobile{
+                        font-size: 30px;
+                        text-align: center;
+                    }
+                    
+                }
+
+                .paragraph{     
+                    color: $textColor;
+                    text-align: center;
+                    letter-spacing: 1px;
+                    font-weight: 200;
+                    
+                }
+            }
+                
+    }
+
+    .bottom{
+        flex:0.5;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+            
+        .formContainer{
+            display: flex;
+            align-items: center;
+
+            
+            
+            .formInput{
+                width: 200px;
+                height: 40px;
+                border-radius: 5px;
+                border: 0.5px solid lightgrey;
+                background-color: rgb(255, 255, 255);
+                margin-right: 10px;
+                font-weight: 200;
+                color: $textColor;
+
+                @include mobile{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-direction: column;
+                    margin-top: 10px;
+                    height: 30px;
+                }
+            }
+
+            .btn{
+                background-color: $mainColor;
+                color: white;
+                width: 100px;
+
+                @include mobile{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin-top: 10px;
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}
