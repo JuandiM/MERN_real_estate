@@ -1,6 +1,6 @@
 const express = require ('express');
 const router = require ('express').Router ();
-const dotenv = require ('dotenv');
+const dotenv = require ('dotenv').config ();
 const properties = require ('./routes/properties');
 
 const app = express ();
