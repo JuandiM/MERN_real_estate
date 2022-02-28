@@ -1,7 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import Carousel from "react-bootstrap/Carousel";
-import "./singleProperty.scss";
 import { villas, apartments } from "../../data";
 
 const SingleProperty = () => {
