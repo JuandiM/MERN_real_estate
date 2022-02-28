@@ -1,326 +1,332 @@
-[
-    {
-        "ref": "1D-001",
-        "type": "villa",
-       "title": "Luxury Villa in Marbella",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": [
-          {"img1": "/assets/carousel/luxuryvilla1.jpg"},
-          {"img2": "/assets/carousel/modern-villa.jpg"},
-          {"img3": "/assets/carousel/luxuryvilla-pool.jpg"}
-        ],
-        "features": [
-          {"bedrooms": "2 bed"},
-          {"bath": "2 bath"},
-          {"built": "200m2"},
-          {"terrace": "120m2"},
-          {"plot": "1200m2"}
-        ],
-        "gallery": [
-          {"img1": "/assets/carousel/luxuryvilla1.jpg"},
-          {"img2": "/assets/carousel/luxuryvilla1.jpg"},
-          {"img3": "/assets/carousel/luxuryvilla1.jpg"},
-          {"img4": "/assets/carousel/luxuryvilla1.jpg"},
-          {"img5": "/assets/carousel/luxuryvilla1.jpg"},
-          {"img6": "/assets/carousel/luxuryvilla1.jpg"}
-        ],
-        "price": "€2,150,000"
-      },
-    {
-        "ref": "1D-002",
-        "type": "villa",
-        "title": "Modern Villa in Marbella",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "4 bed",
-          "bath": "4 bath",
-          "built": "300m2",
-          "terrace": "140m2",
-          "plot": "1800m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€3,550,000"
-      },
-    {
-        "ref": "1D-003",
-        "type": "villa",
-        "title": "4-bed Avant-grade Villa in Marbella",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "6 bed",
-          "bath": "4 bath",
-          "built": "400m2",
-          "terrace": "120m2",
-          "plot": "2200m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€7,150,000"
-      },
-    {
-        "ref": "1D-004",
-        "type": "villa",
-        "title": "Contemporary style Villa in Marbella",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "3 bed",
-          "bath": "2 bath",
-          "built": "220m2",
-          "terrace": "100m2",
-          "plot": "1400m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€1,550,000"
-      },
-    {
-        "ref": "1D-005",
-        "type": "villa",
-        "title": "6bed luxurious villa with sea views",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "6 bed",
-          "bath": "5 bath",
-          "built": "400m2",
-          "terrace": "220m2",
-          "plot": "2400m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€5,550,000"
-      },
-    {
-        "ref": "1D-006",
-        "type": "villa",
-        "title": "3bed luxurious villa with sea views",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "3 bed",
-          "bath": "2 bath",
-          "built": "180m2",
-          "terrace": "90m2",
-          "plot": "1000m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€750,000"
-      },
-    {
-        "ref": "1D-007",
-        "type": "apartment",
-        "title": "Modern 3bed apartment with sea views",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "3 bed",
-          "bath": "2 bath",
-          "built": "180m2",
-          "terrace": "90m2",
-          "plot": "800m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€550,000"
-      },
-    {
-        "ref": "1D-008",
-        "type": "apartment",
-        "title": "Comtemporary 3bed 1st floor luxurious apartment",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "3 bed",
-          "bath": "2 bath",
-          "built": "210m2",
-          "terrace": "100m2",
-          "plot": "1000m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€1.750,000"
-      },
-    {
-        "ref": "1D-009",
-        "type": "apartment",
-        "title": "3bed penthouse apartment in the beachside",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "3 bed",
-          "bath": "2 bath",
-          "built": "180m2",
-          "terrace": "90m2",
-          "plot": "1000m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€2,250,000"
-      },
-    {
-        "ref": "1D-010",
-        "type": "apartment",
-        "title": "4bed apartment with sea views",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "4 bed",
-          "bath": "3 bath",
-          "built": "280m2",
-          "terrace": "150m2",
-          "plot": "1000m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€3,550,000"
-      },
-    {
-        "ref": "1D-011",
-        "type": "apartment",
-        "title": "2bed 2n floor luxurious apartment",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "2 bed",
-          "bath": "2 bath",
-          "built": "150m2",
-          "terrace": "60m2",
-          "plot": "1000m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€550,000"
-      },
-    {
-        "ref": "1D-012",
-        "type": "apartment",
-        "title": "4bed modern penthouse apartment with sea views",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
-        "carouselImg": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/modern-villa.jpg",
-          "img3": "/assets/carousel/luxuryvilla-pool.jpg"
-        },
-        "features": {
-          "bedrooms": "4 bed",
-          "bath": "3 bath",
-          "built": "220m2",
-          "terrace": "110m2",
-          "plot": "1000m2"
-        },
-        "gallery": {
-          "img1": "/assets/carousel/luxuryvilla1.jpg",
-          "img2": "/assets/carousel/luxuryvilla1.jpg",
-          "img3": "/assets/carousel/luxuryvilla1.jpg",
-          "img4": "/assets/carousel/luxuryvilla1.jpg",
-          "img5": "/assets/carousel/luxuryvilla1.jpg",
-          "img6": "/assets/carousel/luxuryvilla1.jpg"
-        },
-        "price": "€1,750,000"
-      }
-]
+[{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec40"
+  },
+  "ref": "1D-001",
+  "type": "villa",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954769/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-designer-villa-for-sale-in-cascada-de-camoja%CC%81n_tgc4q5.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954769/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-terrace_iqghpc.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954769/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-living-room_wrmeuw.jpg"
+  },
+  "features": {
+    "bedrooms": "2 bed",
+    "bath": "2 bath",
+    "built": "200m2",
+    "terrace": "120m2",
+    "plot": "1200m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954769/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-kitchen_hmekhn.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954769/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-terrace-view_tvkrb2.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954768/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-living-room-at-night_rbi24g.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954768/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-terrace-view_1_irshg3.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954768/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-dining-room_ie1ceo.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954768/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-master-bedroom_lxjfg3.jpg",
+    "img7": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954767/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-bedroom_xxvdwx.jpg",
+    "img8": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954767/cloudinary-web/villas/v1/art-collectors-architectural-jewel-in-cascada-de-camoja%CC%81n-indoor-spa_cagtro.jpg"
+  },
+  "price": "€2,150,000",
+  "title": "Luxury Villa in Marbella"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec41"
+  },
+  "ref": "1D-002",
+  "type": "villa",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954794/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_b8opj6.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954793/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_2_hjm1ng.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954793/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_2_hjm1ng.jpg"
+  },
+  "features": {
+    "bedrooms": "4 bed",
+    "bath": "4 bath",
+    "built": "300m2",
+    "terrace": "140m2",
+    "plot": "1800m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954793/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_5_do8wm3.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954793/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_6_jrrawc.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954793/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_1_iswu1z.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954792/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_4_ndyyav.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954792/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_8_qvcweg.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954792/cloudinary-web/villas/v2/majestic-villa-in-hacienda-las-chapas-villa-in-hacienda-las-chapas_7_dc6ixi.jpg"
+  },
+  "price": "€3,550,000",
+  "title": "Modern Villa in Marbella"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec42"
+  },
+  "ref": "1D-003",
+  "type": "villa",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954879/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_imyn7t.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954879/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_2_eebhad.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954878/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_1_xbbdtg.jpg"
+  },
+  "features": {
+    "bedrooms": "6 bed",
+    "bath": "4 bath",
+    "built": "400m2",
+    "terrace": "120m2",
+    "plot": "2200m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954878/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_3_mx1ixa.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954878/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_7_rbxjvn.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954878/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_9_nxxhjq.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954878/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_8_tzi6r9.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954878/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_5_bobzj7.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954878/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_4_fqjjff.jpg",
+    "img7": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954878/cloudinary-web/villas/v3/frontline-beach-state-of-the-art-masterpiece-in-los-monteros-marbella-villa-in-los-monteros_6_asmvmj.jpg"
+  },
+  "price": "€7,150,000",
+  "title": "4-bed Avant-grade Villa in Marbella"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec43"
+  },
+  "ref": "1D-004",
+  "type": "villa",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954909/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_rxbwdx.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954909/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_1_qc3i31.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954908/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_2_thwvul.jpg"
+  },
+  "features": {
+    "bedrooms": "3 bed",
+    "bath": "2 bath",
+    "built": "220m2",
+    "terrace": "100m2",
+    "plot": "1400m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954908/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_3_wixke7.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954908/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_5_xckxcm.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954908/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_8_aizheq.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954908/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_9_oqtjuv.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954908/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_4_lem3bq.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954908/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_6_icxqi9.jpg",
+    "img7": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954908/cloudinary-web/villas/v4/unique-contemporary-luxury-villa-with-panoramic-sea-views-in-la-zagaleta_7_vp68ev.jpg"
+  },
+  "price": "€1,550,000",
+  "title": "Contemporary style Villa in Marbella"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec44"
+  },
+  "ref": "1D-005",
+  "type": "villa",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954935/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de-villa-in-bahia-de-marbella_1_luqtt2.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954935/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de-villa-in-bahia-de-marbella_qmsn1v.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954935/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de-villa-in-bahia-de-marbella_2_uado4d.jpg"
+  },
+  "features": {
+    "bedrooms": "6 bed",
+    "bath": "5 bath",
+    "built": "400m2",
+    "terrace": "220m2",
+    "plot": "2400m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954934/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de-villa-in-bahia-de-marbella_3_p7vg5m.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954934/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de-villa-in-bahia-de-marbella_7_cdhghc.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954934/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de-villa-in-bahia-de-marbella_4_uzfm7y.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954934/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de-villa-in-bahia-de-marbella_5_b9eznk.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954934/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de_sjzx0s.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954934/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de-villa-in-bahia-de-marbella_6_ivfcjy.jpg",
+    "img7": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954934/cloudinary-web/villas/v5/modern-luxury-villa-with-sea-views-150-meters-from-the-beach-in-bahia-de_1_qjf6n1.jpg"
+  },
+  "price": "€5,550,000",
+  "title": "6bed luxurious villa with sea views"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec45"
+  },
+  "ref": "1D-006",
+  "type": "villa",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954968/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_olq4o1.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954967/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_7_kbbfbo.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954967/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_1_vc87as.jpg"
+  },
+  "features": {
+    "bedrooms": "3 bed",
+    "bath": "2 bath",
+    "built": "180m2",
+    "terrace": "90m2",
+    "plot": "1000m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954967/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_2_xsbqk2.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954967/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_4_w9rk8v.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954967/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_3_sbdicm.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954967/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_10_pcyy5s.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954967/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_5_iy1yir.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954966/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_9_gtki3x.jpg",
+    "img7": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954966/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_6_gweoma.jpg",
+    "img8": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645954966/cloudinary-web/villas/v6/modern-masterpiece-in-marbella-golden-mile_8_hxdua7.jpg"
+  },
+  "price": "€750,000",
+  "title": "3bed luxurious villa with sea views"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec46"
+  },
+  "ref": "1D-007",
+  "type": "apartment",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955067/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_8_tiz4gk.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955067/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_3_cuasyd.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955066/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_tpmree.jpg"
+  },
+  "features": {
+    "bedrooms": "3 bed",
+    "bath": "2 bath",
+    "built": "180m2",
+    "terrace": "90m2",
+    "plot": "800m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955066/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_5_uklvzm.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955066/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_1_hpdvjv.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955066/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_2_heknfp.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955065/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_7_x3nbu8.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955065/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_4_seuqcs.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955065/cloudinary-web/apartments/ap1/luxury-penthouses-with-stunning-views-penthouse-in-cabopino_6_q4ckak.jpg"
+  },
+  "price": "€550,000",
+  "title": "Modern 3bed apartment with sea views"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec47"
+  },
+  "ref": "1D-008",
+  "type": "apartment",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955090/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_xy5lc4.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955090/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_1_bmsfgp.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955090/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_9_clfwtj.jpg"
+  },
+  "features": {
+    "bedrooms": "3 bed",
+    "bath": "2 bath",
+    "built": "210m2",
+    "terrace": "100m2",
+    "plot": "1000m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955090/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_2_exmnrc.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955089/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_3_srz32g.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955089/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_4_zrxl1b.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955089/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_8_izryxr.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955089/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_6_coxr6g.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955089/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_5_v0jhqs.jpg",
+    "img7": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955089/cloudinary-web/apartments/ap2/exceptional-frontline-apartment-in-mare-nostrum_7_hjkvrl.jpg"
+  },
+  "price": "€1.750,000",
+  "title": "Comtemporary 3bed 1st floor luxurious apartment"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec48"
+  },
+  "ref": "1D-009",
+  "type": "apartment",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955120/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_5_ezkpg6.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955120/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_4_wrtozw.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955120/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_zwi6wz.jpg"
+  },
+  "features": {
+    "bedrooms": "3 bed",
+    "bath": "2 bath",
+    "built": "180m2",
+    "terrace": "90m2",
+    "plot": "1000m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955120/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_1_bpagpm.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955120/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_2_gacqst.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955119/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_3_utws9c.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955119/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_8_juzqsn.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955119/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_6_wmiqiy.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955119/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_7_czz947.jpg",
+    "img7": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955119/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_9_ngfnkw.jpg",
+    "img8": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955119/cloudinary-web/apartments/ap3/luxury-hillside-living-in-a-privileged-location_10_d3o7r3.jpg"
+  },
+  "price": "€2,250,000",
+  "title": "3bed penthouse apartment in the beachside"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec49"
+  },
+  "ref": "1D-010",
+  "type": "apartment",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955143/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_6_bocb8g.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955143/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_ttp5y9.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955143/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_2_uhv3yv.jpg"
+  },
+  "features": {
+    "bedrooms": "4 bed",
+    "bath": "3 bath",
+    "built": "280m2",
+    "terrace": "150m2",
+    "plot": "1000m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955143/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_3_i7y0v7.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955143/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_1_v4dh3v.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955143/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_9_idgvtx.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955143/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_4_quroq9.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955142/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_5_hs4dio.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955142/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_10_fm4j46.jpg",
+    "img7": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955142/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_7_ooqyhd.jpg",
+    "img8": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645955142/cloudinary-web/apartments/ap4/beautiful-large-penthouse-in-aloha-hill-club_8_dswyww.jpg"
+  },
+  "price": "€3,550,000",
+  "title": "4bed apartment with sea views"
+},{
+  "_id": {
+    "$oid": "6210c2d2957b612197b1ec4a"
+  },
+  "ref": "1D-011",
+  "type": "apartment",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et eumrem dolor architecto quaerat debitis libero, sequi placeat undetempore ut, cupiditate minima ipsum possimus sapiente namdistinctio commodi odit! Lorem ipsum dolor sit, amet consecteturadipisicing elit. Et eum rem dolor architecto quaerat debitislibero, sequi placeat unde tempore ut, cupiditate minima ipsumpossimus sapiente nam distinctio commodi odit! Lorem ipsum dolor",
+  "carouselImg": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956937/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_5_gxyhsv.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956939/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_q4wi6r.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956937/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_2_h5vcrm.jpg"
+  },
+  "features": {
+    "bedrooms": "2 bed",
+    "bath": "2 bath",
+    "built": "150m2",
+    "terrace": "60m2",
+    "plot": "1000m2"
+  },
+  "gallery": {
+    "img1": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956937/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_3_ixo0ws.jpg",
+    "img2": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956937/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_4_jooqul.jpg",
+    "img3": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956937/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_1_v4elc4.jpg",
+    "img4": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956937/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_6_lfdjat.jpg",
+    "img5": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956937/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_4_jooqul.jpg",
+    "img6": "https://res.cloudinary.com/dxqtzubiq/image/upload/v1645956937/cloudinary-web/apartments/ap5/luxury-apartments-with-sea-views-in-santa-clara-golf-marbella-penthouse-in-santa-clara-golf_1_v4elc4.jpg"
+  },
+  "price": "€550,000",
+  "title": "2bed 2n floor luxurious apartment"
+}]
