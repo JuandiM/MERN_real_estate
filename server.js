@@ -1,34 +1,28 @@
 const express = require ('express');
 const router = require ('express').Router ();
-const dotenv = require ('dotenv').config ();
+require ('dotenv').config ();
 const properties = require ('./routes/properties');
-const path = require ('path');
+
+//Cors
+const cors = require ('cors');
+app.use (cors ());
 
 const app = express ();
 
-const port = process.env.PORT || 5000;
-
-app.use (express.static (path.join (__dirname, 'client', 'build')));
-
 //DB CONNECTION
 const mongoose = require ('mongoose');
-
-/* mongoose
-  .connect ('mongodb://localhost/properties_web_app', {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  })
-  .then (() => console.log ('Connected to MongoDB'))
-  .catch (error => console.log (error)); */
 
 mongoose
   .connect (process.env.MONGODB_URI, {useNewUrlParser: true})
   .then (() => console.log ('connected to Mongo'))
   .catch (err => console.log (err));
-
-//Cors
-const cors = require ('cors');
-app.use (cors ());
+/* mongoose
+.connect ('mongodb://localhost/properties_web_app', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+})
+.then (() => console.log ('Connected to MongoDB'))
+.catch (error => console.log (error)); */
 
 //Model
 const Property = require ('./models/Property.model');
@@ -36,17 +30,15 @@ const Property = require ('./models/Property.model');
 //Routing
 app.use ('/api/properties', properties);
 
-/*app.get ('/api/properties', (req, res) => {
-  Property.find ().then (allProperties => res.json (allProperties));
-});
+//Path module
+const path = require ('path');
 
- app.get ('/api/details/:property_id', (req, res) => {
-  const {property_id} = req.params;
-  Property.findById (property_id).then (property => res.send (property));
-}); */
+app.use (express.static (path.resolve (__dirname, 'client/build')));
 
 app.get ('*', (req, res) => {
-  res.sendFile (path.join (__dirname, 'client', 'build', 'index.html'));
+  res.sendFile (path.resolve (__dirname, './client/build', 'index.html'));
 });
 
-app.listen (port, () => console.log ('SERVER running'));
+const PORT = process.env.PORT || 5000;
+
+app.listen (PORT, () => console.log ('SERVER running'));
