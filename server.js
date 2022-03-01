@@ -13,7 +13,7 @@ app.use (cors ());
 const mongoose = require ('mongoose');
 
 mongoose
-  .connect (process.env.MONGODB_URI, {useNewUrlParser: true})
+  .connect (process.env.MONGODB_URL, {useNewUrlParser: true})
   .then (() => console.log ('connected to Mongo'))
   .catch (err => console.log (err));
 /* mongoose
