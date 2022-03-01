@@ -5,9 +5,9 @@ const properties = require ('./routes/properties');
 
 //Cors
 const cors = require ('cors');
-app.use (cors ());
-
 const app = express ();
+
+app.use (cors ());
 
 //DB CONNECTION
 const mongoose = require ('mongoose');
