@@ -2,13 +2,14 @@ import React, { useEffect, useState } from "react";
 import "./properties.scss";
 import { Link } from "react-router-dom";
 import axios from "axios";
+import { axiosInstance } from "../../config";
 
 const Villas = () => {
   const [properties, setProperties] = useState([]);
 
   useEffect(() => {
     const fetchProperties = async () => {
-      const response = await axios.get("http://localhost:5000/api/properties");
+      const response = await axiosInstance.get("/properties");
       setProperties(response.data);
     };
     fetchProperties();

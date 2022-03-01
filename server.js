@@ -33,10 +33,10 @@ app.use ('/api/properties', properties);
 //Path module
 const path = require ('path');
 
-app.use (express.static (path.resolve (__dirname, 'client/build')));
+app.use (express.static (path.join (__dirname, 'client/build')));
 
 app.get ('*', (req, res) => {
-  res.sendFile (path.resolve (__dirname, './client/build', 'index.html'));
+  res.sendFile (path.join (__dirname, './client/build', 'index.html'));
 });
 
 const PORT = process.env.PORT || 5000;

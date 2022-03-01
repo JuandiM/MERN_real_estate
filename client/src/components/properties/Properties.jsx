@@ -3,13 +3,14 @@ import "./properties.scss";
 import PropertyCard from "../propertyCard/PropertyCard";
 import { Link } from "react-router-dom";
 import axios from "axios";
+import { axiosInstance } from "../../config";
 
 const Properties = () => {
   const [properties, setProperties] = useState([]);
 
   useEffect(() => {
     const fetchProperties = async () => {
-      const response = await axios.get("http://localhost:5000/api/properties");
+      const response = await axiosInstance.get("/properties");
       setProperties(response.data);
     };
     fetchProperties();

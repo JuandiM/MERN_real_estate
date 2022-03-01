@@ -9,6 +9,7 @@ import BathtubIcon from "@mui/icons-material/Bathtub";
 import DeckIcon from "@mui/icons-material/Deck";
 import ApartmentIcon from "@mui/icons-material/Apartment";
 import HomeIcon from "@mui/icons-material/Home";
+import { axiosInstance } from "../../config";
 
 const EachProperty = () => {
   const { property_id } = useParams();
@@ -16,9 +17,7 @@ const EachProperty = () => {
 
   useEffect(() => {
     const fetchProperty = async () => {
-      const response = await axios.get(
-        `http://localhost:5000/api/properties/${property_id}`
-      );
+      const response = await axiosInstance.get(`/properties/${property_id}`);
       //console.log(response.data);
       setProperty(response.data);
     };
